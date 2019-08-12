@@ -8,7 +8,7 @@ public class CalculatorTest {
     {
         System.out.println("Calculator: Addition Check");
         
-        int a=3;
+        int a=;
         int b=5;
         
         int expectedResult=8;
