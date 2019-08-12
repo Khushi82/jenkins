@@ -1,9 +1,0 @@
-pages:
-stage: build
-script:
-- echo "Header" > public/index.html
-- cat index.html >> public/index.html
-- echo "Footer" >> public/index.html
-artifacts:
-paths:
-- public
